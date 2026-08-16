@@ -2,9 +2,6 @@
 
 [arXiv](https://arxiv.org/abs/2201.11793) | [PDF](https://ddrm-ml.github.io/DDRM-paper.pdf) | [Project Website](https://ddrm-ml.github.io/)
 
-[Bahjat Kawar](https://bahjat-kawar.github.io/)<sup>1</sup>, [Michael Elad](https://elad.cs.technion.ac.il/)<sup>1</sup>, [Stefano Ermon](http://cs.stanford.edu/~ermon)<sup>2</sup>, [Jiaming Song](http://tsong.me)<sup>2</sup><br />
-<sup>1</sup> Technion, <sup>2</sup>Stanford University
-
 DDRM uses pre-trained [DDPMs](https://hojonathanho.github.io/diffusion/) for solving general linear inverse problems. It does so efficiently and without problem-specific supervised training.
 
 <img src="figures/ddrm-overview.png" alt="ddrm-overview" style="width:800px;"/>
