@@ -1,5 +1,5 @@
 # Denoising Diffusion Restoration Models (DDRM)
-[PDF](https://ddrm-ml.github.io/DDRM-paper.pdf) | [Project Website](https://ddrm-ml.github.io/)
+[PDF](./GenAI_Image_Restoration_Project_Final_Under25MB.pdf)) | [Project Website](https://ddrm-ml.github.io/)
 
 DDRM uses pre-trained [DDPMs](https://hojonathanho.github.io/diffusion/) for solving general linear inverse problems. It does so efficiently and without problem-specific supervised training.
 
